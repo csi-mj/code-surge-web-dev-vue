@@ -8,16 +8,12 @@ A simple task management application built using Vue 3 and Vite. The app allows 
 - **Switch States**: Click on a task to cycle through states (`TODO → IN PROGRESS → COMPLETED`).
 - **Delete Tasks**: Remove tasks from any list.
 
-## Demo
-
-The app features a clean and responsive design with three distinct task lists (`TODO`, `IN PROGRESS`, and `COMPLETED`).
 
 ## Project Setup
 
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/) installed on your system.
-- Basic understanding of Vue 3.
 
 ### Installation
 
